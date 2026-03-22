@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChessUniverse/ChessUniverse.Console.csproj" />
+  <Project Path="ClassLibrary1/ChessUniverse.Library.csproj" Id="24e96c7f-b424-46bb-b398-ad99da05bea7" />
+</Solution>
