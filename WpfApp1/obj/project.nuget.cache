@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ksKkkFvncY8=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\vardu\\OneDrive\\Desktop\\inqnuruyn\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vardu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\vardu\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\vardu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\vardu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.15\\microsoft.netcore.app.host.win-x64.9.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\vardu\\OneDrive\\inqnuruyn\\ClassLibrary1\\ChessUniverse.Library.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "C:\\Users\\vardu\\OneDrive\\Desktop\\inqnuruyn\\WpfApp1\\WpfApp1.csproj",
+      "filePath": "C:\\Users\\vardu\\OneDrive\\Desktop\\inqnuruyn\\WpfApp1\\WpfApp1.csproj",
+      "libraryId": "C:\\Users\\vardu\\OneDrive\\inqnuruyn\\ClassLibrary1\\ChessUniverse.Library.csproj",
+      "targetGraphs": [
+        "net9.0-windows"
+      ]
+    }
+  ]
+}
